@@ -1,0 +1,135 @@
+,bdate,city.id,city.title,country.id,country.title,deactivated,first_name,id,last_name,lists,sex
+0,9.2,2.0,Saint Petersburg,1.0,Russia,,Anastasia,88111,Akhmetzyanova,,1
+1,10.8.1985,1910755.0,El Cerrito,9.0,USA,,Darya,104644,Balkenende,,1
+2,3.7,183.0,Almaty,4.0,Kazakhstan,,Natalya,144181,Chayka,,1
+3,,2.0,Saint Petersburg,1.0,Russia,,Dmitry,171276,Kovalchuk,,2
+4,22.1.1990,1.0,Moscow,1.0,Russia,,Alexandra,256481,Veyt,,1
+5,15.1.1977,2.0,Saint Petersburg,1.0,Russia,,Nikolay,318612,Chernolutsky,,2
+6,,183.0,Almaty,4.0,Kazakhstan,,Tosya,557305,Saparova,[27],1
+7,15.5,2.0,Saint Petersburg,1.0,Russia,,Alexey,664826,Isaev,,2
+8,,703.0,ZГјrich,217.0,Switzerland,,Asia,670317,Bokusheva,,1
+9,,133.0,Sochi,1.0,Russia,,Daniil,869100,Jol,,2
+10,,,,,,deleted,DELETED,1096344,,,1
+11,10.9.1974,183.0,Almaty,4.0,Kazakhstan,,Irina,1181857,Li,,1
+12,22.5.1979,2.0,Saint Petersburg,1.0,Russia,,Vera,1245824,Razumnaya,,1
+13,,,,1.0,Russia,,Alexandra,1259186,Akopyan,,1
+14,,183.0,Almaty,4.0,Kazakhstan,,Stefania,1290078,Denisko,,1
+15,,,,,,deleted,DELETED,1309181,,,1
+16,31.12,183.0,Almaty,4.0,Kazakhstan,,Alia,1362981,Svanova,,1
+17,29.6.1986,183.0,Almaty,4.0,Kazakhstan,,Aly,1396233,Yuldabaeva,,1
+18,3.1.1920,183.0,Almaty,4.0,Kazakhstan,,Lili,1410346,Swallow,,1
+19,,2.0,Saint Petersburg,1.0,Russia,,Natalya,1413055,Shu,,1
+20,10.7,2.0,Saint Petersburg,1.0,Russia,,Asya,1637377,Chernolutskaya,,1
+21,15.2.1973,99.0,Novosibirsk,1.0,Russia,,Konstantin,1663884,Baskakov,,2
+22,,183.0,Almaty,4.0,Kazakhstan,,Darya,2034744,Akhmetzhanova,,1
+23,19.9.1981,183.0,Almaty,4.0,Kazakhstan,,Aybat,2305654,Zhomart,,2
+24,,284.0,Karaganda,4.0,Kazakhstan,,Alexandra,2305862,Komleva,,1
+25,21.7.1987,284.0,Karaganda,4.0,Kazakhstan,,Zhandos,2314703,Zhomart,,2
+26,2.7,,,,,,Olik,2799684,Talovskaya,,1
+27,9.8,183.0,Almaty,4.0,Kazakhstan,,Lena,2878338,Gendrixon,,1
+28,27.2.1985,,,4.0,Kazakhstan,,Anna,2972234,Gosteva,,1
+29,17.8.1984,284.0,Karaganda,4.0,Kazakhstan,,Anastasia,3035270,Yasnaya,,1
+30,3.12.1985,284.0,Karaganda,4.0,Kazakhstan,,Anastasia,3152580,Khan,,1
+31,,,,,,,Alyonushka,3308735,Alexandrova,,1
+32,27.4,284.0,Karaganda,4.0,Kazakhstan,,Olga,3408590,Leschyova,,1
+33,,,,,,deleted,DELETED,3500200,,,1
+34,19.7.1982,284.0,Karaganda,4.0,Kazakhstan,,Konstantin,3567843,Streltsov,,2
+35,17.1,99.0,Novosibirsk,1.0,Russia,,Vera,3958415,Stulkova,,1
+36,15.9,183.0,Almaty,4.0,Kazakhstan,,Olga,4028955,Tsaturian,,1
+37,9.7,183.0,Almaty,4.0,Kazakhstan,,Ada,4047873,Molgacheva,,1
+38,30.10.1975,183.0,Almaty,4.0,Kazakhstan,,Sergey,4274441,Zheldak,,2
+39,23.6.1983,284.0,Karaganda,4.0,Kazakhstan,,Larisa,4543523,Khodykina,,1
+40,3.6.1987,183.0,Almaty,4.0,Kazakhstan,,Margarita,4555183,Nesterenko,,1
+41,14.1,183.0,Almaty,4.0,Kazakhstan,,Altynay,4626368,Satanova,,1
+42,,97.0,Novokuznetsk,1.0,Russia,,Dmitry,4931857,Neverov,,2
+43,16.11.1989,183.0,Almaty,4.0,Kazakhstan,,Kristina,5175877,Li,,1
+44,,,,,,deleted,DELETED,5438865,,,2
+45,,183.0,Almaty,4.0,Kazakhstan,,Tatyana,5567782,Esaulenko,,1
+46,1.10.1978,2.0,Saint Petersburg,1.0,Russia,,Alexey,5649906,Ponomarev,,2
+47,,,,2.0,Ukraine,,Nastya,5708358,Mo,,1
+48,15.7.1987,284.0,Karaganda,4.0,Kazakhstan,,Zhenka,5859293,Trofimov,,2
+49,,,,,,banned,Alexander,6194676,Kravtsov,,2
+50,4.3,2.0,Saint Petersburg,1.0,Russia,,Elena,6339258,Bobrova,,1
+51,,284.0,Karaganda,4.0,Kazakhstan,,Ayana,6418063,Ebekenova,,1
+52,6.9,183.0,Almaty,4.0,Kazakhstan,,Irina,6430788,Sokolova,,1
+53,13.11.1980,183.0,Almaty,4.0,Kazakhstan,,Yulia,6756451,Semyonova,,1
+54,12.11.1988,284.0,Karaganda,4.0,Kazakhstan,,Arina,6952884,Kostyunina,,1
+55,18.1.1992,183.0,Almaty,4.0,Kazakhstan,,Yulia,7135952,Kalinichenko,,1
+56,,284.0,Karaganda,4.0,Kazakhstan,,Rashid,7323381,Miftakhov,,2
+57,11.1.1983,284.0,Karaganda,4.0,Kazakhstan,,Olga,7862738,Streltsova,,1
+58,28.4,183.0,Almaty,4.0,Kazakhstan,,Elena,8010564,Nureeva,,1
+59,26.1,99.0,Novosibirsk,1.0,Russia,,Dasha,9067562,Baskakova,,1
+60,,,,,,,Daniil,9139074,Kovalev,,2
+61,,,,4.0,Kazakhstan,,Alexander,9204162,Kuklachev,,2
+62,8.1.1983,284.0,Karaganda,4.0,Kazakhstan,,Anna,9506869,Buzenius,,1
+63,,99.0,Novosibirsk,1.0,Russia,,Evgenia,9908374,Poltavskaya-Gosman,,1
+64,31.8.1919,2.0,Saint Petersburg,1.0,Russia,,Alexey,10811911,Barbolin,,2
+65,,,,,,banned,Marina,12234966,Rusakova,,1
+66,,,,,,deleted,DELETED,12732434,,,1
+67,3.6,1.0,Moscow,1.0,Russia,,Anastasia,12820416,Zub,,1
+68,,25.0,Barnaul,1.0,Russia,,Acarya,13202166,Brahmacarii,,2
+69,18.12.1984,183.0,Almaty,4.0,Kazakhstan,,Sabina,14350422,Shirina,,1
+70,,183.0,Almaty,4.0,Kazakhstan,,Viktoria,14641620,Shkurycheva,,1
+71,2.2,183.0,Almaty,4.0,Kazakhstan,,Olesya,15385647,Dorozhenko,,1
+72,,284.0,Karaganda,4.0,Kazakhstan,,Stas,15522838,Degay,,2
+73,3.7.1992,1912973.0,Rennes,209.0,France,,Olechka,16066436,Dergachyova,,1
+74,21.4.1982,284.0,Karaganda,4.0,Kazakhstan,,Galina,16123370,Khrapova,,1
+75,,284.0,Karaganda,4.0,Kazakhstan,,Yaroslav,16614926,Kvashnin,,2
+76,2.2.1922,183.0,Almaty,4.0,Kazakhstan,,Amina,18378667,Rakhman,,1
+77,4.10,183.0,Almaty,4.0,Kazakhstan,,Tatyana,18406433,Gro,,1
+78,,284.0,Karaganda,4.0,Kazakhstan,,Aydos,19256087,Zhomartov,,2
+79,,183.0,Almaty,4.0,Kazakhstan,,Viktoria,19475137,Abesta,,1
+80,3.10,183.0,Almaty,4.0,Kazakhstan,,Alicia,20271242,Junissalieva,,1
+81,,,,,,deleted,Ekaterina,21009300,Kopylova,,1
+82,5.9.1991,105.0,Oryol,1.0,Russia,,Maxim,22456829,Ivanov,,2
+83,14.1,183.0,Almaty,4.0,Kazakhstan,,Yulianna,22560270,Lemeshkina,,1
+84,14.1.1982,284.0,Karaganda,4.0,Kazakhstan,,Viktoria,22573033,Akimochkina,,1
+85,,,,2.0,Ukraine,,Viktor,23965673,Petrenko,,2
+86,,,,,,deleted,Darya,24058189,Komleva,,1
+87,,,,,,deleted,Khasan,24554084,Musaperov,,2
+88,20.5.1972,183.0,Almaty,4.0,Kazakhstan,,Alexander,27745015,Korolev,,2
+89,,183.0,Almaty,4.0,Kazakhstan,,Margarita,29073446,Tsvit,,1
+90,20.2,183.0,Almaty,4.0,Kazakhstan,,Tatyana,29356285,Stenkova,,1
+91,,,,,,banned,Nargis,33079127,Www,,1
+92,1.3.1992,37.0,Vladivostok,1.0,Russia,,Natali,34882807,Mamedova,,1
+93,15.7.1977,284.0,Karaganda,4.0,Kazakhstan,,Ildar,38653948,Gabbasov,,2
+94,18.7.1983,284.0,Karaganda,4.0,Kazakhstan,,Olga,39285566,Shumakher,,1
+95,,183.0,Almaty,4.0,Kazakhstan,,Svetlana,50852841,Samenko,,1
+96,,284.0,Karaganda,4.0,Kazakhstan,,Vlad,55210079,Chekhlov,,2
+97,15.4.1987,183.0,Almaty,4.0,Kazakhstan,,Natalia,55730248,Rakhmetova,,1
+98,13.1,183.0,Almaty,4.0,Kazakhstan,,Tatyana,57557707,Andrianova,,1
+99,11.4.1983,284.0,Karaganda,4.0,Kazakhstan,,Irina,63680238,Kachura,,1
+100,14.9.1975,183.0,Almaty,4.0,Kazakhstan,,Yulia,66145958,Osipova,,1
+101,18.2,183.0,Almaty,4.0,Kazakhstan,,Marina,68171063,Kalykova,,1
+102,25.10,1936775.0,Puttaparthi,80.0,India,,Zlata,72935890,Volkova,,1
+103,10.9,183.0,Almaty,4.0,Kazakhstan,,Leyla,73962143,Timoshinova,,1
+104,,823.0,Brisbane,19.0,Australia,,Elena,78294997,Titova,,1
+105,8.4.1971,183.0,Almaty,4.0,Kazakhstan,,Ayman,86243658,Orunbaeva,,1
+106,,14.0,Astana,4.0,Kazakhstan,,Yana,87086316,Syomina,,1
+107,16.9.1981,1158.0,Zhitomir,2.0,Ukraine,,Dmytro,91599848,Romanchuk,,2
+108,31.12.1982,183.0,Almaty,4.0,Kazakhstan,,Svetlana,107953398,Kurmeneva,,1
+109,7.11.1905,,,19.0,Australia,,Olga,136320987,Landina,,1
+110,,183.0,Almaty,4.0,Kazakhstan,,Viktor,139888811,Esaulenko,[27],2
+111,,183.0,Almaty,4.0,Kazakhstan,,О—atalya,141293426,О•fremova,,1
+112,,183.0,Almaty,4.0,Kazakhstan,,Jogadom.kz,141386567,Almaty,,2
+113,17.7,183.0,Almaty,4.0,Kazakhstan,,Viktor,142726545,Om,,1
+114,28.10.1969,183.0,Almaty,4.0,Kazakhstan,,Khanna,155981339,Aymanbetova,,1
+115,,,,,,deleted,Islam,156957031,Tattinov,,2
+116,,284.0,Karaganda,4.0,Kazakhstan,,Sergey,171336466,Kim,,2
+117,21.8,7279.0,Petropavlovsk,4.0,Kazakhstan,,Zarina,173044336,Ikhieva,,1
+118,17.3.1979,183.0,Almaty,4.0,Kazakhstan,,Evgenia,181064543,Konovalenko,,1
+119,,183.0,Almaty,4.0,Kazakhstan,,Sergey,182539508,Vertkov,,2
+120,23.9,,,,,,Anya,183248456,Ionova,,1
+121,5.9,,,,,,Axenia,186680551,Sartite,,1
+122,19.9,284.0,Karaganda,4.0,Kazakhstan,,Tatyana,190149895,Orlova,,1
+123,,2.0,Saint Petersburg,1.0,Russia,,Danza,202755199,Flamenco,,1
+124,3.6,183.0,Almaty,4.0,Kazakhstan,,Margo,202788920,Almatyfashion,,1
+125,24.6.1982,2.0,Saint Petersburg,1.0,Russia,,Anna,205932106,Ovyannikova,,1
+126,,183.0,Almaty,4.0,Kazakhstan,,Sadzhi,214605954,Masanova,,1
+127,16.7.1983,73.0,Krasnoyarsk,1.0,Russia,,Elena,217178310,Kvashina,,1
+128,26.1,183.0,Almaty,4.0,Kazakhstan,,Yoga,220897470,Art,,1
+129,14.1.1982,284.0,Karaganda,4.0,Kazakhstan,,Viktoria,237283950,Akimochkina,,1
+130,,,,,,,Detenysh,360471132,Chelovechesky,,2
+131,2.4.1987,2.0,Saint Petersburg,1.0,Russia,,Maria,421257904,Kutyreva,,1
+132,21.2.1986,,,,,,Alexander,421310121,Vorobey,,2
+133,5.1.1999,,,1.0,Russia,,Alan,423308916,Sokurov,,2
